@@ -1,0 +1,20 @@
+{
+  "funding_round_id": "FR-GTC-GG21-DESCI",
+  "platform": "Gitcoin",
+  "round_name": "Gitcoin GG21 DeSci Community Round",
+  "round_family": "Gitcoin DeSci Community Round",
+  "round_number": "GG21",
+  "time_period": "Aug 2024",
+  "start_date": null,
+  "end_date": null,
+  "round_operator": "Gitcoin",
+  "lead_team": "Swift Evo",
+  "matching_pool_usd": 39000,
+  "project_count": 49,
+  "donor_count": 390,
+  "round_status": "completed",
+  "result_status": "final",
+  "source_url": null,
+  "schema_version": "V1.5",
+  "notes": "Historical Gitcoin DeSci round. Detailed records will be backfilled after GG23."
+}

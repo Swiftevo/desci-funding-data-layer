@@ -1,0 +1,20 @@
+{
+  "funding_round_id": "FR-GTC-GG20-DESCI",
+  "platform": "Gitcoin",
+  "round_name": "Gitcoin GG20 DeSci Community Round",
+  "round_family": "Gitcoin DeSci Community Round",
+  "round_number": "GG20",
+  "time_period": "Apr 2024",
+  "start_date": null,
+  "end_date": null,
+  "round_operator": "Gitcoin",
+  "lead_team": "Manuel Olariu",
+  "matching_pool_usd": 25000,
+  "project_count": 29,
+  "donor_count": 292,
+  "round_status": "completed",
+  "result_status": "final",
+  "source_url": null,
+  "schema_version": "V1.5",
+  "notes": "Historical Gitcoin DeSci round. Detailed records will be backfilled after GG21."
+}
