@@ -1,0 +1,20 @@
+{
+  "funding_round_id": "FR-GTC-BETA-DESCI",
+  "platform": "Gitcoin",
+  "round_name": "Gitcoin Beta DeSci Community Round",
+  "round_family": "Gitcoin DeSci Community Round",
+  "round_number": "Beta",
+  "time_period": "May 2023",
+  "start_date": null,
+  "end_date": null,
+  "round_operator": "Gitcoin",
+  "lead_team": "Boris Dyakov and Manuel Olariu",
+  "matching_pool_usd": 75000,
+  "project_count": 65,
+  "donor_count": 267,
+  "round_status": "completed",
+  "result_status": "final",
+  "source_url": null,
+  "schema_version": "V1.5",
+  "notes": "Historical Gitcoin DeSci round. Detailed records will be backfilled after GG20."
+}
