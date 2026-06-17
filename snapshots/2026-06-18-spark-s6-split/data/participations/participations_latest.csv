@@ -1,0 +1,585 @@
+﻿"participation_id","project_entity_id","funding_round_id","platform","round_family","source_round_name","source_season","source_project_name","source_project_id","source_application_id","source_status","source_url","application_status","payout_address","grant_address","raw_text","application_summary","what_are_you_making","impact","progress","why_you","requested_amount_usd","raised_amount_usd","matching_amount_usd","final_amount_usd","donor_count","unique_donor_count","vote_count","funding_rank","review_status","review_score_avg","review_score_min","review_score_max","review_score_disagreement","tiebreaker_used","review_decision","match_status","matched_project_entity_id","confirmed_by","confirmed_at","github_path","obsidian_path","created_at_source","last_edited_source","source_specific_fields_json"
+"DSPT-00001","DSPJ-0001","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Edge Esmeralda Vital Futures Track",,,,"https://artizen.fund/index/p/edge-esmeralda-vital-futures-track?season=6","unknown",,,"[WHAT]
+We're building a health track that will be an intense week of learning and testing cutting-edge health ideas and projects. These funds will help key participants joining and support experiments in the health space coming to life.
+
+[IMPACT]
+Cities are making people sick and urban environments have more unhealthy people than ever before. Your environment determines your health, and we want to inspire people to build healthier environments and have people test how to actually live in them
+
+[PROGRESS]
+This will be the 3rd year of the Edge Esmeralda health track. Edge City has created over 8 pop-up villages that have health as a top 4 priority and we've helped impact over 11,000 lives with the health by default philosophy.
+
+[WHY]
+I've helped run this track every year.",,"Health-focused experimental track at Edge Esmeralda","Promotes healthier environments and lifestyle experimentation","3rd year running, 11,000+ impacted","Organizer with experience running the track",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0001","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00002","DSPJ-0002","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Narrative Audits for Public-Goods",,,,"https://artizen.fund/index/p/narrative-audits-a-public-goods-story-infra?season=6","unknown",,,"[WHAT]
+I stress-test narratives in Web3: this funding makes the work a public good (not for lazy startups).
+
+(a) Samaritans: flag a project whose claims don't add up.
+(b) Commons: free narrative audit for public goods projects.
+
+All audits to be public.
+
+[IMPACT]
+(a) Protect users from projects that look professional but don't hold up: claims that don't match evidence, credentials that don't verify, traction that doesn't exist.
+
+(b) Help public goods projects communicate so their work gets used and funded.
+
+[PROGRESS]
+Narrative audits delivered for Blockchain foundations, DeFi protocols, tech infra.
+
+Methodology developed through CLEA research and proven through industry work. 2x hackathon winner in 2025 (Web3 Summit Berlin, Funding the Commons).
+
+Ready to scale.
+
+[WHY]
+Years ghostwriting for Web3 protocols: whitepapers, manifestos, marketing strategy. I know what to spot because I've built the narratives from the inside.
+
+Affiliated researcher at CLEA Cybernetic Lab. 
+Storyteller for 10 years across industries.",,"I stress-test narratives in Web3...","Protect users from misleading projects and help public goods communicate better","Delivered audits for blockchain foundations and DeFi protocols; hackathon wins","Experienced Web3 ghostwriter and researcher",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0002","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00003","DSPJ-0003","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","LLM Evaluators in PGF",,,,"https://artizen.fund/index/p/utilising-llm-evaluators-in-public-goods-funding-pg?season=6","unknown",,,"[WHAT]
+We are building a methodology that reads funding applications and helps decide who should get money for public good projects, instead of paying many humans to do it.
+
+[IMPACT]
+By cutting evaluation costs in public goods funding rounds, more money goes directly to climate, community, and social impact projects, helping regenerate ecosystems and support real-world change.
+
+[PROGRESS]
+We designed the full research plan, selected five LLM models, defined RBTS vs averaging tests, mapped token costs, identified 5 past rounds to study, and assembled an AI and PGF-focused team.
+
+[WHY]
+Our team combines 20+ years in IT, AI engineering expertise, blockchain and PGF experience. This research will lead us to seek consultations from human funding round evaluators to get an insight into their evaluation system.",,"LLM-based evaluation system for funding proposals","Reduces cost of funding rounds","Research design completed","AI + PGF experienced team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0003","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00004","DSPJ-0004","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DeSci Bridge",,,,"https://artizen.fund/index/p/desci-bridge?season=6","unknown",,,"[WHAT]
+To lower the barrier to entry into DeSci. We unite existing platforms and projects into one accessible hub. No more scattered resources or wondering where to start. Everything you need is collated, collaborative and community-driven.
+
+[IMPACT]
+DeSci Bridge helps researchers, students and builders worldwide access knowledge, collaborate across borders and actively contribute to decentralized science.
+
+[PROGRESS]
+We just launched and we have partnered with AuraSci. We have curated DeSci educational series as the recommended starter course on DeSci Bridge to onboard researchers, students and builders  into the DeSci ecosystem
+
+[WHY]
+As a biomedical engineer and AI researcher, I understand how research actually works. As a community builder, content developer and contributor to DeSci protocols, I know how to onboard people and turn learning into participation.",,"Onboarding hub for DeSci","Improves accessibility and collaboration","Launched + partnerships","Biomedical engineer + community builder",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0004","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00005","DSPJ-0005","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","hyvmind",,,,"https://artizen.fund/index/p/hyvmind?season=6","unknown",,,"[WHAT]
+a place where legal researchers can collaborate via smol and verifiable contributions
+
+[IMPACT]
+it will make legal AI transparent, ethical and sustainable by giving ownership back to knowledge creators
+
+[PROGRESS]
+formulated the initial vision in a whitepaper (2024), started work the interface (2025), openly building the prototype (2026..)
+
+[WHY]
+been an interdisciplinary legal researcher for 18 years, and academic for 8",,"Collaborative platform for legal research","Improves transparency in legal AI","Whitepaper + prototype","18-year legal researcher",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0005","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00006","DSPJ-0006","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","ANTS Journal",,,,"https://artizen.fund/index/p/ants-journal-for-art-nature-technology-and-science?season=6","unknown",,,"[WHAT]
+A prototype for the future of artistic publishing, where science and technology serves culture, and where art actively shapes how knowledge is produced, owned, and shared.
+
+[IMPACT]
+By bringing together art, nature, technology & science from local perspectives, valuing indigenous, non-Western knowledge, challenging dominant global narratives, and helping communities tell their own stories, fairly, ethically, on their own terms.
+
+[PROGRESS]
+ANTS is part of a larger initiative called Meta Gallery, a technology-based art space launched in Rio. We have validated the curatorial vision, tested tech driven exhibition models & built an active network of artists, researchers, and institutions.
+
+[WHY]
+I bring over two decades of experience across contemporary art, digital culture, and curatorship. I have led exhibitions & institutions that connect art, technology, and critical theory bridging concept to reality.",,"Art journal","Knowledge equity","Network","Curator",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0006","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00007","DSPJ-0007","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Mussa Coral Fest",,,,"https://artizen.fund/index/p/mussa-coral-fest-1?season=6","unknown",,,"[WHAT]
+We are creating joyful ocean festivals and cultural gatherings that blend music, art, science, and storytelling. Through Web3, we are beginning to translate these experiences into digital collectibles and on-chain cultural records that preserve ocean
+
+[IMPACT]
+Mussa helps people reconnect with the ocean through culture and shared experiences. By gradually integrating blockchain tools, we aim to make ocean stories, artistic expressions, and community participation more transparent, traceable, and collective
+
+[PROGRESS]
+We have produced 11 ocean cultural events, reaching 1,000+ people. Our first anniversary featured 80+ artists, building a community around ocean art, music, science, and coral reefs, and laying the groundwork for future on-chain cultural records
+
+[WHY]
+We are marine scientists and cultural producers with 20+ years of experience in coral reef conservation and event production, working at the intersection of science, art, and community while exploring Web3 for cultural memory and collective impact",,"Ocean festival","Culture impact","11 events","Team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0007","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00008","DSPJ-0008","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","OpenVenom",,,,"https://artizen.fund/index/p/telsons-biotechai--data-pharmacom?season=6","unknown",,,"[WHAT]
+We are building a blockchain-based Data Lake with evidence from Tityus serrulatus venom. A predictive AI Matrix will analyze this data to identify biopharmaceuticals and bio-inputs, accelerating discoveries via open validation all compiled scientifi
+
+[IMPACT]
+We are converting a health problem (scorpion stings) into a solution. We democratized bioprospecting via DeSci, reducing drug costs and creating sustainable and regenerate agricultural ecosystems. It's not just a laboratory, it's a protocol coletive.
+
+[PROGRESS]
+We defined the Predictive AI architecture and the design of Bio-Oracles for data validation. We consolidated the theoretical basis Deep Tech Telsons and the DAO governance model to ensure ethics and compliance in biodiversity exploration in IA-ML-DL.
+
+[WHY]
+We bring together data scientists, biotechnologists, and Web3 experts. We have the technical ""viability"" and ethical vision to transform Brazilian biodiversity into open science digital assets, overcoming the barriers of ""Big Pharma"" Open Bio Oracle.",,"AI biotech","Drug discovery","Design","Bio team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0008","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00009","DSPJ-0009","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Ejochi Vitality",,,,"https://artizen.fund/index/p/ejochi-vitality","unknown",,,"[WHAT]
+We’re studying special African plants that people boost energy and vitality. We test them in the lab like a science detective checking what’s inside, what they do, and if they’re safe. We’ll share the ‘how-to’ so others can confirm it
+
+[IMPACT]
+The African Scientist Hub is turning African botanicals into trusted, measurable science. By validating S. jollyanum and E. longifolia and releasing open datasets + reproducible methods, we can accelerate better men’s health tools andcreate  value.
+
+[PROGRESS]
+Framework + SOPs drafted, with deck + manuscript ready. Presented in DeSci spaces, began partnerships, and opened talks with Bio Protocol, Molecule, and VitaDAO while building African Scientist Hub which is the research pipeline.
+
+[WHY]
+Biomedical Scientist with hands-on diagnostics and botanical research experience, building The African Scientist Hub to turn African bioactives into trusted, reproducible science. I blend lab rigor with DeSci tools to make the work auditable",,"Bioactive research","Health impact","Framework","Biomedical",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0009","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00010","DSPJ-0010","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Solar Village",,,,"https://artizen.fund/index/p/solar-village?season=6","unknown",,,"[WHAT]
+We are powering little solar mini-grids for remote villages. They catch sunshine and turn it into electricity so homes, schools, and shops can have lights and power every day.
+
+[IMPACT]
+Solar Village brings clean power to communities without electricity, helping kids study, businesses grow. We reduce pollution and reliance on charcoal stoves and diesel generators, all while building stronger, self-reliant local economies.
+
+[PROGRESS]
+We’ve partnered with UNDP, local governments and a few mini-grid operators. We have designed our energy data platform, selected 23 pilot sites in Nigeria, and are working with global partners on transparent reporting and carbon credit readiness.
+
+[WHY]
+We have a strong team that combine energy systems knowledge, local partnerships, and mission-driven leadership, with hands-on experience building real infrastructure that puts communities first, not extractive energy models.",,"Solar grids","Clean energy","Pilots","Energy team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0010","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00011","DSPJ-0011","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","INFLAMM AI",,,,"https://artizen.fund/index/p/inflamm-ai","unknown",,,"[WHAT]
+INFLAMM AI is a magical helper that locks up your health secrets, uses them to give you smart advice, and even gives you tiny coins for sharing safely, all while keeping your secrets fully protected.
+
+[IMPACT]
+INFLAMM AI is a trustless agent transforming fragmented health data into proactive care. It uses AI, predictive hypothesis markets (SciCast), and gamified rewards (VyTap) to incentivize wellness and accelerate research.
+
+[PROGRESS]
+We've achieved basic Website launch, Ongoing VyTap community participation for Future Incentives and waitlist before full App Launch
+
+[WHY]
+I'm a Biomedical Data-Science Specialist and have a track record of making something out of nothing.",,"Health AI agent","Preventive care","Website + waitlist","Data scientist",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0011","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00012","DSPJ-0012","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Mars and Moon base",,,,"https://artizen.fund/index/p/mars-and-moon-base","unknown",,,"[WHAT]
+A hyper simple massive pressurized Moon colony macrostructure with solid metal.  At a cost low.  The simplicity of design is comical but based in real physics.  Simple, crude, cheap ideas can win if they just barely meet the need.  And it scales.
+
+[IMPACT]
+Starship can take 1 million tons of cargo to moon per synod without hurting Mars missions.  The cost is very low and cargo that is hyper simple and cheap is needed to fill that cargo capacity.  No one is doing CHEAP CHEAP or SIMPLE SIMPLE city.
+
+[PROGRESS]
+I used Grok AI to design about half of it using FREECAD and python script.  I am an EE not ME so my design is simple relative to the final product.  The entire concept is pretty simple so all done there won't be THAT much there.
+
+[WHY]
+There is a need.  The first principals allow only 2 solutions at scale to  hit the need in the low price range.  Inflatables are the other and this hasn't been mentioned by anyone in public.  So I have first mover advantage.",,"Cheap moon colony design","Space infra","Concept design","Engineer",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0012","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00013","DSPJ-0013","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Gulf Fish Conservation",,,,"https://artizen.fund/index/p/community-and-science-for-gulf-of-california-ornamental-fish-conservation?season=6","unknown",,,"[WHAT]
+I am developing a community-focused environmental education project to promote the conservation of endemic marine ornamental fish from the Gulf of California, supported by scientific research on captive reproduction.
+
+[IMPACT]
+The project raises awareness about endemic marine ornamental fish from the Gulf of California and how overfishing and unsustainable management practices impact wild populations, linking science and communities to support marine conservation.
+
+[PROGRESS]
+I am currently conducting doctoral research on the captive reproduction of marine ornamental fish and have experience in scientific research and outreach, communicating science to the general public from children to adults.
+
+[WHY]
+I am a biologist and PhD candidate with experience in science outreach since 2016. I focus on conserving marine ornamental fish from the Gulf of California by combining aquaculture research, education, and community engagement.",,"Marine conservation + education","Protect biodiversity","PhD research","Biologist",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0013","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00014","DSPJ-0014","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DeSci Ghana",,,,"https://artizen.fund/index/p/desci-ghana-1","unknown",,,"[WHAT]
+DeSci Ghana community educates Africans both researchers and non researchers on a science but in a special block of the internet  called blockchain and out of the team behind DeSci Ghana, SciResearch, a platform is to be birthed to help in research.
+
+[IMPACT]
+DeSci Ghana will transform the research ecosystem in Ghana by leveraging on community collaboration with the universities in Ghana and SciResearch ,a platform for the researches made by the researchers to provide transparency and proof of work.
+
+[PROGRESS]
+1. A 10 day DeSci Series
+2. 3 DeSci oriented X spaces( with DeSciAfrica)
+3. A virtual meeting with the Biomedical Engineering Association,KNUST-GH
+4. DeSci Ghana website
+5. Presented on DeSci GH at Blockchain Adoption in Ghana at AyaHQ
+
+[WHY]
+The team is  made up  of Computer science stucdents and Biomedical engineers, passionate about science in the web3 space , with the shear of load of the team efficient in web3 and smart contracts and the biomedical engineers to help in the research.",,"DeSci community + platform","Research transparency","Events + partnerships","Student + engineers",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0014","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00015","DSPJ-0015","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Coral Rehab Cozumel",,,,"https://artizen.fund/index/p/marine-coral-nursery-and-coral-rehabilitation-project-in-cozumel-mxico?season=6","unknown",,,"[WHAT]
+Corals are animals that build reefs but grow only a few inches per year. They face threats and are dying worldwide. We rescue coral fragments in a nursery with the best conditions. We´ll outplant them in deep reefs so they can mature and reproduce.
+
+[IMPACT]
+We rescue genetic diversity by protecting coral species at risk from bleaching, pollution, and coastal development. We build a sustainable future with a nursery to ensure long-term coral production. We scale up restoration efforts in Cozumel island.
+
+[PROGRESS]
+After careful planning, we´ve selected a site for our marine nursery at 8-meter depth (2023), designed and probed nursery module prototypes (2024), and trained our allies to produce 100 fragments of Acroporid corals (2025). We´re ready to scale up.
+
+[WHY]
+I´ve worked on coral reef restoration for 10 years, designing and establishing techniques to produce hard corals, training volunteers to mass outplant corals, and assisting in their sexual reproduction. I´ve a master's degree in aquaculture.",,"Coral restoration","Reef recovery","100 corals grown","10y experience",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0015","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00016","DSPJ-0016","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Rocket Injector Bible",,,,"https://artizen.fund/index/p/cheshire-redux---amateur-liquid-rocket-to-50k-feet?season=6","unknown",,,"[WHAT]
+A modular rocket engine that can be rapidly tested, and the stand to do it on. Test as many types of and multiple configurations of those types of injectors, and once the best one is found, gain publicity for the research by launching one to 50k ft.
+
+[IMPACT]
+Help push forward the amateur/student knowledge for a prop combo that has been increasing in popularity for the last few years outside the professional space. There is little good data for film cooling or injector efficiencies, I want to change that
+
+[PROGRESS]
+Injector testing and revision, bare bones stand built, more advanced stand design in progress. Flight vehicle(for project publicity) design completed
+
+[WHY]
+I am a professional propulsion engineer, in charge of all fluid systems on a major launch vehicle engine, and have worked with liquid propulsion rocket engines for more than 4 years, with almost 75 hotfires, and multiple amateur launches under my bel",,"Open rocket research","Amateur space science","Test rigs built","Propulsion engineer",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0016","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00017","DSPJ-0017","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","http://elimu.ai Sponsors",,,,"https://artizen.fund/index/p/elimuai-sponsors","unknown",,,"[WHAT]
+We build a website (https://sponsors.elimu.ai) where you can sponsor the education of an out-of-school child.
+
+[IMPACT]
+The social impact we are aiming for is to increase the number of children that get to opportunity to learn basic reading, writing and math. All so that they can grow up and use their creativity to improve the world. A sponsor can observe the impact.
+
+[PROGRESS]
+We have finished building the Ethereum smart contracts (https://github.com/elimu-ai/web3-sponsors), and we are preparing to test the solution with groups of out-of-school children in Q4 of 2026 (estimated cost per child: $40).
+
+[WHY]
+We work in the intersection of real-world impact and blockchain. This puts us in a position to build a system that offers radical transparency and trust for sponsors. The world's first on-chain education sponsorship program.",,"Education sponsorship","Access education","Smart contracts ready","Web3 + impact",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0017","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00018","DSPJ-0018","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Shapeshifters",,,,"https://artizen.fund/index/p/labour-union-of-higher-dimensional-shapeshifters","unknown",,,"[WHAT]
+Key terms: 
+➡️ https://en.wikipedia.org/wiki/Transmedia_storytelling
+➡️ https://en.wikipedia.org/wiki/Interactive_film
+
+Our plan is to present the answer to life the universe and everything and realign versions of reality, beyond polarization.
+
+[IMPACT]
+Metapossibility: if it exists as a though the probability it exists is non-zero.
+
+Metacrisis solution: can solve any problem, cannot solve all the problems all at once.
+
+We believe change is possible and our project will inspire change.
+
+[PROGRESS]
+Using generative AI to create images that act as memetic viruses.
+
+Screenplay (WORK IN PROGRESS): https://docs.google.com/presentation/d/1geTp6nwHl3oWdMnyo6XZEq1c88M1BquMdzx3UnBKGuQ
+
+Join real time discussion channel: https://t.me/PlanetaryCouncil
+
+[WHY]
+Flexing imagination muscles.
+Neuroplasticity. Neurogenesis.
+Curious brain. Beautiful mind.
+Resonating heart. DNA activated.",,"Transmedia experience","Cultural narrative","Script WIP","Creative",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0018","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00019","DSPJ-0019","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Living Towers",,,,"https://artizen.fund/index/p/constellation-punk-facade-living-buildings-for-regenerative-cities?season=6","unknown",,,"[WHAT]
+We’re creating buildings that act like living systems: they grow food, generate solar energy, clean the air, and support life in cities. Each becomes an interactive, regenerative presence for people, nature, and the surrounding environment.
+
+[IMPACT]
+Living Towers turn passive buildings into regenerative systems. They add food, clean energy, and greenery to dense cities, improve air and performance, heal, inspire, bring joy, and create places people feel proud to live, work, and visit.
+
+[PROGRESS]
+We completed core architectural design, system concepting, and an emblem that defines the project’s evolution. Frontier Tower SF is secured as the first site. We are now raising funds for a $10,000 structural and engineering feasibility study.
+
+[WHY]
+I combine architecture, solar energy, engineering, and regenerative design. With 10+ years delivering real projects, I’m focused on turning ambitious ideas into buildable systems that are financially grounded and ready for the real world.",,"Regenerative buildings","Urban ecology","Design ready","Architect",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0019","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00020","DSPJ-0020","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","TEENTOK",,,,"https://artizen.fund/index/p/teentok?season=6","unknown",,,"[WHAT]
+Platform that helps young people discover what they like, what they’re good at, and what jobs fit them. They can talk to real mentors, learn skills, choose their future with confidence instead of guessing, failing, unhappy and not feeling fulfilled
+
+[IMPACT]
+Guiding millions of teens toward the right career path prevents dropouts and wasted resources while creating happier adults in fulfilling careers. The result: empowered individuals and thriving communities built on purpose-driven success.
+
+[PROGRESS]
+We are in final development and beta testing. We are building the platform, onboarded mentors, gathered early student feedback, and refined features. It’s almost ready for launch and scaling extra AI innovated features.
+
+[WHY]
+Yessie combines psychology, UX/UI, and business expertise, while Alex brings years of experience in AI and tech development. Together, we understand how teens make career decisions and built Teentok to guide, support, and empower them.",,"Career discovery platform","Better life outcomes","Beta","UX + AI team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0020","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00021","DSPJ-0021","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","CCGF",,,,"https://artizen.fund/index/p/ccgfmegapi?season=6","unknown",,,"[WHAT]
+We are making a system that funds science autonomously and continuously.
+
+It should become a web3 hyperstructure. A thing that eventually will 
+
+[IMPACT]
+Once succeeded the system will autonomously, without human intervention pour tons of funds into science.
+
+Science made our life better -> it'll make the life of all the humanity better
+
+[PROGRESS]
+Under HyperDeSci we:
+1. Run two QF rounds in mid 2024
+2. Run a round on artizen for season 4
+3. Minted a governance token & commiunity to test Conviction voting on Gardens.fund
+4. Minted a coin to test StreamingQF on flowstate
+
+[WHY]
+We are a team of  web3 native scientists passionate about open and accessible science.",,"Autonomous funding system","Fund science","Test rounds","Web3 scientists",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0021","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00022","DSPJ-0022","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Greenpill Uganda",,,,"https://artizen.fund/index/p/greenpill-uganda?season=6","unknown",,,"[WHAT]
+We're building a system that pays farmers to take care of the land. When farmers grow food in ways that make the soil healthier & help plants and animals thrive, they get money sent directly to their phones. It's like getting paid to be a good garden
+
+[IMPACT]
+Our project lifts farming families out of extreme poverty by providing steady income while they restore degraded land. Healthier soil means more food, cleaner water, & trees that fight climate change. As farmers prosper, entire rural communities gain
+
+[PROGRESS]
+We've established partnerships with local farming cooperatives & begun onboarding our first cohort of regenerative farmers into the program. Our team has developed the initial Web3 payment infrastructure & created training materials in local language
+
+[WHY]
+I deeply understand both the agricultural realities facing Ugandan farming communities and the transformative potential of Web3 technology. With roots in rural Uganda and experience in blockchain solutions, I bridge two worlds that rarely connect.",,"Regenerative farming system","Reduce poverty","Pilot farmers","Local + web3",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0022","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00023","DSPJ-0023","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Neurodevelop",,,,"https://artizen.fund/index/p/neurodevelop-neuromodulation-for-everyone?season=6","unknown",,,"[WHAT]
+Imagine using electrical signals to trick your brain into treating pain or urinary incontinence with a device the size of your cell phone. We are researching, designing, and building smart neuromodulation devices that can treat various diseases.
+
+[IMPACT]
+We are advancing the development of neurostimulation devices that use electrical signals at different frequencies to provide an alternative, noninvasive treatment option for neurological diseases that do not respond to existing therapies.
+
+[PROGRESS]
+In order to conduct this research, we designed and developed the first version of Neurodevelop, a cell phone-sized device that uses inexpensive electronic components and can be programmed to produce various signals at different frequencies.
+
+[WHY]
+I am a Mexican engineer dedicated to conducting research and providing solutions in the biomedical field for diseases that cannot be treated conventionally. We use neuromodulation as a safe, low-cost alternative for treating neurological diseases.",,"Neuromodulation device","Treat diseases","Prototype","Biomedical engineer",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0023","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00024","DSPJ-0024","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Feynman WTF",,,,"https://artizen.fund/index/p/feynman-wtf?season=6","unknown",,,"[WHAT]
+Feynman is a mobile app that summarizes research papers into 60-word cards and lets you scroll through them in a social-feed style to explore what’s new.
+
+[IMPACT]
+Feynman saves researchers hours, turns brainrot scrolling into productive discovery, and makes science accessible while spreading knowledge faster worldwide.
+
+[PROGRESS]
+We’ve built and launched Feynman with key features: swipe to discover research papers, chat with AI, bookmark and save for later, and explore by category. The app is fully live on the App Store and currently awaiting review on Google Play Store.
+
+[WHY]
+I’m a researcher and builder who knows the pain of endless papers. Having built AI products and consumer apps, I bring the domain insight and execution needed to create and scale Feynman for the community.",,"Research summary app","Knowledge access","App live","Builder",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0024","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00025","DSPJ-0025","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Youth Digital Skills",,,,"https://artizen.fund/index/p/empowering-youth-through-digital-skills--innovation?season=6","unknown",,,"[WHAT]
+We are building a scalable digital training program that equips youth with essential ICT skills, freelancing expertise, and business acumen to help them secure employment or start their own ventures.
+
+[IMPACT]
+By providing accessible digital education, we are bridging the skills gap and creating employment opportunities for youth. This initiative contributes to economic growth, reduces unemployment, and promotes technological inclusion.
+
+[PROGRESS]
+Successfully trained 150+ freelancers through 10+ online batches. Conducted 6+ offline batches of ‘Skills Sprint’ basic computer training, empowering over 120+ students per batch. Achieved recognition in multiple regional and national competitions.
+
+[WHY]
+Our leadership team has a proven track record of empowering youth through skill development. With industry expertise, strong mentorship networks, and local community engagement, we are uniquely positioned to scale this project.",,"Digital training","Employment","150+ trained","Educators",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0025","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00026","DSPJ-0026","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","American Season",,,,"https://artizen.fund/index/p/american-season?season=6","unknown",,,"[WHAT]
+A quiet, participatory film and living archive of parents who lost children to school violence. Seasonal chapters turn homes into memorials, creating a care-based, immersive, community-led experience across film, public space, and digital platforms.
+
+[IMPACT]
+American Season responds to the growing crisis of school shootings and political division. The film focuses on bereaved parents, shifting the conversation from blame to possibility and urging us to listen with empathy.
+
+[PROGRESS]
+Filmed one of the parents, recorded all the rest
+
+[WHY]
+My understanding of grief is shaped by my father's work with bereaved parents. These experiences taught me that grief changes families and that presence matters more than words. Becoming a father made this realization more urgent.",,"Participatory film","Social awareness","Filming","Storyteller",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0026","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00027","DSPJ-0027","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Spark DeSci",,,,"https://artizen.fund/index/p/desci-gitcoin-group?season=6","unknown",,,"[WHAT]
+We are organizing a DeSci community round to reward contributors, support new scientific projects, and secure funding to grow decentralized, open, and inclusive research ecosystems through Gitcoin’s quadratic funding model.
+
+[IMPACT]
+By funding open scientific research, we empower innovators, transform communities through knowledge, and build a more inclusive, decentralized ecosystem for global collaboration and sustainable scientific advancement.
+
+[PROGRESS]
+The Gitcoin DeSci Round has successfully hosted multiple rounds, starting with GG15, funding 225+ projects. Spark is the new sub team to explore different funding opportunities outside Gitcoin.
+
+[WHY]
+We unites experienced operators, stewards, and builders who have led successful rounds since GG15, coordinating funding, empowering projects, and expanding DeSci ecosystem.",,"Funding round infra","Support ecosystem","Multiple rounds","Experienced team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0027","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00028","DSPJ-0028","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","LORS",,,,"https://artizen.fund/index/p/lunar-open-sourced-rover-standard?season=6","unknown",,,"[WHAT]
+Imagine if every toy car was built differently so you couldn't swap wheels or batteries. We're making a rulebook for lunar rovers so everyone builds them compatibly. This democratizes access, letting more people build and send robots to the Moon.
+
+[IMPACT]
+LORS lower the barrier to entry for developing nations, startups and universities. This fosters a sustainable, collaborative lunar economy where rovers can repair each other, share data, and work together, accelerating scientific progress.
+
+[PROGRESS]
+We have a core expert team, a 60-day roadmap, which includes delivering a Standards Landscape Report, an Ecosystem Mapping Document, and a Phase 2 Roadmap. We identified key OSS components that will form the backbone of our standard.
+
+[WHY]
+Our team is uniquely qualified, combining deep technical knowledge with strategic oversight. We are baked by MoonDAO and have a clear, actionable plan to deliver tangible specifications and build a global community of contributors.",,"Lunar rover standard","Open space ecosystem","Roadmap","Expert team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0028","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00029","DSPJ-0029","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DeSci Asia",,,,"https://artizen.fund/index/p/desci-asia?season=6","unknown",,,"[WHAT]
+DeSci Asia has grown to 400 members and organized 24 events for China, Singapore, Indonesia, Thailand and other Asia DeSci projects & communities since Oct 2023.
+
+We also provide funding for Asia local DeSci IRL meeting.
+
+[IMPACT]
+The target audience includes projects, communities, researchers, scientists, and enthusiasts in Asia interested in decentralized science and its applications.
+
+We grow a DeSci community for Asia, hosted educational events across Asian cities.
+
+[PROGRESS]
+400 members from 9 Asian cities, 30 DeSci events since 2023, translation work and ecosystem education contributions.
+
+[WHY]
+I grew up in Asia, with over 10 years working experience in scientific industry and active participation in Gitcoin DeSci rounds.",,"Asia DeSci community","Grow ecosystem","30+ events","Operator",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0029","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00030","DSPJ-0030","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Overlake Bio",,,,"https://artizen.fund/index/p/overlake--bio?season=6","unknown",,,"[WHAT]
+We're creating an AI-powered, open-source database on astronaut health to identify targets and interventions, informed by genomics and structural biology, that will enhance humanity’s capacity for off-world survival.
+
+[IMPACT]
+Structured and open-sourced information on tweaking human physiology to withstand the rigors of space would be accessible and reproducible by researchers worldwide.
+
+[PROGRESS]
+Published academic work and running prototype locally. Raising funds for rollout.
+
+[WHY]
+PhD biotech researcher with 15+ years experience and active DeSci founder.",,"Space biology AI","Astronaut health","Prototype","PhD",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0030","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00031","DSPJ-0031","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","ToGather",,,,"https://artizen.fund/index/p/togather-project-documenting-living-systems?season=6","unknown",,,"[WHAT]
+I am making a platform for people who build communities. We map the invisible architecture of belonging through regenerative ethnography. Our AI hivemind transforms field notes into a digital heart.
+
+[IMPACT]
+Provides a roadmap for collective resilience and archives communal knowledge.
+
+[PROGRESS]
+Field research and transformation into live data model underway.
+
+[WHY]
+15+ years documenting communities and building collective systems.",,"Community data platform","Collective intelligence","Data model","15y experience",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0031","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00032","DSPJ-0032","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Sharkwatch Cozumel",,,,"https://artizen.fund/index/p/sharkwatch-cozumel?season=6","unknown",,,"[WHAT]
+I’m leading a community-driven project to protect sharks in the Mesoamerican Reef, combining local knowledge from fishers and divers with grassroots education to inspire ocean stewardship.
+
+[IMPACT]
+We’re regenerating reef ecosystems while empowering local communities through science, storytelling, and education.
+
+[PROGRESS]
+Mapped shark habitats, launched education programs, published research, reached 100,000+ people.
+
+[WHY]
+Marine biologist with deep local roots and experience integrating science and community.",,"Shark conservation","Biodiversity","Research + outreach","Marine biologist",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0032","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00033","DSPJ-0033","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","InfiniteZero",,,,"https://artizen.fund/index/p/infinitezero-network?season=6","unknown",,,"[WHAT]
+We're building a way for millions of devices to train AI together without data leaving the device.
+
+[IMPACT]
+Transforms AI into public infrastructure owned collectively.
+
+[PROGRESS]
+Devnet launching, validator nodes active globally.
+
+[WHY]
+PhD team across global institutions with strong research backing.",,"Decentralized AI training","Public AI","Devnet","PhD team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0033","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00034","DSPJ-0034","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Mental Wealth Academy",,,,"https://artizen.fund/index/p/mental-wealth-academy?season=6","unknown",,,"[WHAT]
+Next Gen Educational Tech platform enabling communities to operate with AI agents and DAO frameworks.
+
+[IMPACT]
+Creates advanced DAO tools and AI copilots for community governance and engagement.
+
+[PROGRESS]
+Fully built product with audited contracts and deployed features.
+
+[WHY]
+Background in psychology and deep understanding of digital culture.",,"AI DAO education platform","Better communities","Built product","Psych + tech",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0034","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00035","DSPJ-0035","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DIY Particle Accelerator",,,,"https://artizen.fund/index/p/diy-nuclear-physics-particle-accelerator?season=6","unknown",,,"[WHAT]
+Remaking a betatron accelerator and making it affordable and open source.
+
+[IMPACT]
+Lower barrier to nuclear physics and potential low-cost cancer treatment.
+
+[PROGRESS]
+Power source and test systems operational.
+
+[WHY]
+Experience in nuclear projects and engineering systems.",,"Cheap accelerator","Science access","Prototype","Engineer",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0035","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00036","DSPJ-0036","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Expanse Bio",,,,"https://artizen.fund/index/p/expansebio?season=6","unknown",,,"[WHAT]
+We are building a simple online place where people can learn about space biology, share ideas, and use AI tools.
+
+[IMPACT]
+Accelerates discovery of medicines and improves global health.
+
+[PROGRESS]
+Whitepaper drafted, community growing, tools in development.
+
+[WHY]
+10 years in DeSci and multiple grants from ESA.",,"Space bio platform","Medicine discovery","Whitepaper","Researcher",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0036","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00037","DSPJ-0037","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Mortech Regen Hub",,,,"https://artizen.fund/index/p/mortech-regen-hub?season=6","unknown",,,"[WHAT]
+An IRL phygital regenerative tech hub in Nairobi with NFTs, governance, AR/VR and marketplace.
+
+[IMPACT]
+Supports local economy and bypasses extractive intermediaries.
+
+[PROGRESS]
+Physical space identified and under construction.
+
+[WHY]
+Focused on empowering African creators and communities.",,"Regen hub Nairobi","Local economy","Construction","Community builder",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0037","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00038","DSPJ-0038","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","OneHealth",,,,"https://artizen.fund/index/p/one?season=6","unknown",,,"[WHAT]
+Health identity system allowing patients to carry medical history.
+
+[IMPACT]
+Improves healthcare efficiency and saves lives.
+
+[PROGRESS]
+System design completed and preparing pilots.
+
+[WHY]
+Focus on real-world infrastructure and healthcare systems.",,"Health identity","Better care","Design ready","System thinker",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0038","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00039","DSPJ-0039","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Kind Design",,,,"https://artizen.fund/index/p/kind-design?season=6","unknown",,,"[WHAT]
+Study of health systems to design more human-centered care.
+
+[IMPACT]
+Improves dignity, trust, and patient experience.
+
+[PROGRESS]
+Concept developed and research planning underway.
+
+[WHY]
+10+ years in medicine, psychotherapy, and policy.",,"Healthcare system research","Human care","Concept","Doctor",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0039","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00040","DSPJ-0040","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DeSci Reviews",,,,"https://artizen.fund/index/p/the-desci-journals?season=6","unknown",,,"[WHAT]
+Decentralized scientific publishing platform turning research into composable assets.
+
+[IMPACT]
+Challenges traditional publishing oligopoly.
+
+[PROGRESS]
+MVP tested, partnerships secured, platform live.
+
+[WHY]
+40 years experience in science and decentralization.",,"Publishing platform","Fix science publishing","Live v6","40y experience",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0040","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00041","DSPJ-0041","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","GreenSci",,,,"https://artizen.fund/index/p/greensci","unknown",,,"[WHAT]
+10 local real grassroot projects are norminated by 10 different greenpill local chapters to join GreenSci for further developments
+
+[IMPACT]
+solving local challenges (health, environment, education) through decentralized science and environmental protection
+
+[PROGRESS]
+9 norminated grassroot projects are passed the greenpill network community conviction voting. we will move on the 2nd stage to seek for small funding to each project for a real impact or achievement
+
+[WHY]
+I am the GreenSci project lead",,"Local DeSci funding","Grassroots impact","9 projects","Lead",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0041","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00042","DSPJ-0042","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","PrivexaAI",,,,"https://artizen.fund/index/p/privexaai","unknown",,,"[WHAT]
+Secure health data wallet allowing users to monetize anonymized data.
+
+[IMPACT]
+Returns data ownership to individuals.
+
+[PROGRESS]
+Functional app with early users.
+
+[WHY]
+Background in pharmacy and blockchain.",,"Health data wallet","Data ownership","App live","Pharmacy + crypto",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0042","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00043","DSPJ-0043","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Regen Reef Fish",,,,"https://artizen.fund/index/p/regen-reef-fish-thriveness","unknown",,,"[WHAT]
+Coral reef fish restoration using biotech and blockchain.
+
+[IMPACT]
+Improves reef ecosystems and biodiversity.
+
+[PROGRESS]
+Research published and prototypes ongoing.
+
+[WHY]
+Expertise in coral reef science and DeSci.",,"Fish restoration","Reef ecosystem","Research","Experts",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0043","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00044","DSPJ-0044","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Africa Research Base",,,,"https://artizen.fund/index/p/africa-research-base","unknown",,,"[WHAT]
+Shared data infrastructure for African research with token incentives.
+
+[IMPACT]
+Improves representation and research quality.
+
+[PROGRESS]
+Hackathon success, token launched, contributors onboarded.
+
+[WHY]
+Biomedical engineering student addressing real data gaps.",,"Data infra Africa","Better research","Hackathon win","Researcher",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0044","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00045","DSPJ-0045","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Asterisk Women Health",,,,"https://artizen.fund/index/p/asterisk-womens-health","unknown",,,"[WHAT]
+We are curating a women's non-reproductive health publication that advises women on their health journey, creates a data-rich clinican guide for female-biased disease states, and advocates to slam shut the health gap.
+
+[IMPACT]
+By closing the gender data gap (and the Global North/South research gap), women will experience better health. This reduces workload for medicine, increases the economy (approx. 300M in UK alone), and provides acceleration for all medicine overall.
+
+[PROGRESS]
+Went viral on TikTok; over 1,000 subscribers; won two hackathons; received four GitCoin grants; received one ecosystem grant; published whitepaper.
+
+[WHY]
+I'm a serial social impact entrepreneur with an exit in tech; I'm also Editor-in-Chief at Anodyne Magazine. I've made it my business to use the written word to generate change in health equity worldwide.",,"Women health data","Close data gap","Viral + grants","Founder",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0045","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00046","DSPJ-0046","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","Plague Hunt",,,,"https://artizen.fund/index/p/plague-hunt","unknown",,,"[WHAT]
+It’s a game-like app where anyone can learn about the trees in their city, help keep them healthy, and work with scientists to find and report pests.
+
+[IMPACT]
+Anyone will be able to help care for trees by reporting problems they see in the streets. People will learn about pests and how they affect urban forests. With education, web3, and citizen science, we can protect tree diversity and improve city ecosy
+
+[PROGRESS]
+We already have the full app architecture, a functional demo, a group of expert academic validators, a botanical garden joining the launch, and initial sampling of infection hotspots. We have also defined our milestones.
+
+[WHY]
+I’ve spent three years promoting open knowledge in DeSci. I’m a biologist who is passionate about bringing science closer to people and protecting the biodiversity of public spaces that provide essential ecosystem services. That’s why I want to build",,"Tree monitoring app","Urban ecology","Prototype","Biologist",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0046","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00047","DSPJ-0047","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DeSci Mexico",,,,"https://artizen.fund/index/p/desci-mxico","unknown",,,"[WHAT]
+A community that uses web3 and DeSci tools to support more students and researchers in pursuing their lines of research without obstacles and create education programs to have more scientists.
+
+[IMPACT]
+We operate at the intersection of science, Web3 infrastructure, and public universities, giving researchers and students practical tools to create verifiable, open, and fundable research.
+
+[PROGRESS]
+We have built a nationwide DeSci community, onboarded 300+ students and researchers, partnered with BUAP for an educational program, led workshops and conferences, supported ETH Cinco de Mayo, and incubated Plague Hunt as our first native project
+
+[WHY]
+I combine my background in biology with hands-on experience building DeSci communities, incubating scientific Web3 projects, and teaching researchers how to use decentralized tools. I have led national workshops and university programs.",,"Community + education","Research access","300+ members","Organizer",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0047","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00048","DSPJ-0048","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","DeSci Survey",,,,"https://artizen.fund/index/p/desci-ecosystem-survey","unknown",,,"[WHAT]
+I'm funding a community event for DeSci project leads to do community outreach and using the event survey results to generate a report on current DeSci ecosystem needs for growth and publishing it in open-access on Paragraph.
+
+[IMPACT]
+My project will generate knowledge to inform grant funding agencies what the people need to (1) onboard new participants and (2) gain valuable skills and experiences to participate in the DeSci ecosystem in a meaningful way.
+
+[PROGRESS]
+I have published 4 articles on Paragraph (https://paragraph.com/@bitcoinuniversity) and have 2 more lined up. Here's a post on the currect platform growth progress (https://x.com/wAliceChen/status/1999137102127063372).
+
+[WHY]
+I already created the budget breakdown (https://tinyurl.com/meet-desci-in-asia), designed the surveys, and connected with DeSci's founders.",,"Ecosystem survey","Better funding insights","Articles","Researcher",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0048","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
+"DSPT-00049","DSPJ-0049","FR-ART-S6","Artizen","Spark DeSci","Spark DeSci","Season 6","FunDeSci",,,,"https://artizen.fund/index/p/fundesci-a-multi-chain-crowdfuing-platfrom-for-desci","unknown",,,"[WHAT]
+FunDeSci is building a decentralized NFT marketplace and NFT- Fundraising where researchers can tokenize proposals and research assets, to attract funding and trade outputs, making science more accessible, fundable, and community-driven.
+
+[IMPACT]
+FunDeSci will democratize access to scientific research funding, empowering researchers worldwide, especially those in underfunded or marginalized regions to pursue innovative ideas without relying on traditional gatekeepers
+
+[PROGRESS]
+Beta Version, Currently, FunDeSci supports four leading blockchain networks, Ethereum, Polygon, Arbitrum, Binance, and Optimism for two fundraising methods, including Crowdfunding and Auction. We have strong collaboration with DeSci Asia, Hippocrat
+
+[WHY]
+We directly tackle the challenge of limited scientific funding, Our NFT-based approach is revolutionizing the research funding landscape, We have a passionate and experienced team with proven expertise in blockchain, finance, and scientific research",,"NFT funding platform","Democratize funding","Beta","Team",,,,,,,,,"not_collected",,,,,"False","unknown","confirmed","DSPJ-0049","existing_v1_archive","2026-06-16",,,"2026/5/10","2026/5/10","{}"
