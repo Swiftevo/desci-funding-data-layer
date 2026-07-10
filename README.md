@@ -1,93 +1,185 @@
 # DeSci Funding Data Layer
 
-Open data infrastructure for decentralized science funding rounds, projects, and ecosystem research.
+Open data infrastructure for decentralized science funding rounds, projects, participations, donations, donors, reviews, and ecosystem research.
 
-## Overview
+## Current Status
 
-This repository serves as a canonical archive and structured data layer for DeSci (Decentralized Science) funding ecosystems.
+V1.5 project-centric model is active.
 
-The project currently focuses on:
+Current canonical coverage:
 
-* Funding round project databases
-* Structured project metadata
-* Raw proposal preservation
-* Participation tracking
-* DeSci ecosystem mapping
-* Open and machine-readable data formats
+```text
+Projects: 61
+Participations: 70
+Funding rounds: 6
+```
 
-## Current Coverage
+Current detailed participation coverage:
 
-### Artizen Season 6 — Spark DeSci Round
-https://artizen.fund/index/mf/spark-desci-fund-for-radical-researchers?season=6&scroll=no
+```text
+Spark S6 participations: 49
+Gitcoin GG23 participations: 21
+```
 
-* 49 DeSci projects
-* Structured metadata
-* Raw application archives
-* Project classification system
-* Stable ID system
+Gitcoin GG23 analysis tables:
+
+```text
+Donation events: 274
+Donor wallets: 80
+```
 
 ## Architecture
 
-The database uses a three-layer identity structure:
-
-### Project Entity ID
-
-Permanent project identity.
-
-Example:
-DSPJ-0001
-
-### Funding Round ID
-
-Funding round identity.
-
-Example:
-FR-ART-S6
-
-### Participation ID
-
-Unique participation instance per project per round.
-
-Example:
-DSPT-00001
-
-## Repository Structure
+The V1.5 data layer uses:
 
 ```text
-/schema
-/data
-/rounds
-/snapshots
-/exports
-/docs
+Projects = ecosystem identity
+Funding Rounds = funding context
+Participations = project-round history
+Donations = funding event graph
+Donors = wallet identity graph
+Reviews = evaluation history
 ```
 
-## Schema Status
+The first three tables form the primary project-centric archive:
 
-Current version:
-V1 Schema Freeze
+```text
+data/projects/
+data/funding_rounds/
+data/participations/
+```
 
-The V1 schema focuses on:
+Analysis tables currently include:
 
-* Stability
-* Preservation
-* Future interoperability
-* AI-readable structure
-* Cross-round compatibility
+```text
+data/donations/
+data/donors/
+data/matching/
+```
 
-## Long-Term Goals
+## Current Round Coverage
 
-Future expansion may include:
+Round metadata exists for:
 
-* Additional funding rounds
-* Cross-platform integrations
-* Ecosystem analytics
-* AI agents and retrieval systems
-* Public APIs
-* Knowledge graph infrastructure
+```text
+FR-ART-S6
+FR-GTC-GR15-DESCI
+FR-GTC-BETA-DESCI
+FR-GTC-GG20-DESCI
+FR-GTC-GG21-DESCI
+FR-GTC-GG23-DESCI
+```
 
-## Notes
+Detailed canonical project/participation data currently includes:
 
-Notion is used as the human-facing management layer.
+```text
+FR-ART-S6
+FR-GTC-GG23-DESCI
+```
 
-GitHub acts as the canonical archive and source-of-truth layer for structured exports and schema preservation.
+Historical Gitcoin rounds are metadata-only until future backfill:
+
+```text
+FR-GTC-GR15-DESCI
+FR-GTC-BETA-DESCI
+FR-GTC-GG20-DESCI
+FR-GTC-GG21-DESCI
+```
+
+## Canonical Data
+
+Canonical latest tables:
+
+```text
+data/projects/projects_latest.csv
+data/projects/projects_latest.json
+data/funding_rounds/funding_rounds_latest.csv
+data/funding_rounds/funding_rounds_latest.json
+data/participations/participations_latest.csv
+data/participations/participations_latest.json
+```
+
+Public exports:
+
+```text
+exports/public/projects_latest.csv
+exports/public/projects_latest.json
+exports/public/funding_rounds_latest.csv
+exports/public/funding_rounds_latest.json
+exports/public/participations_latest.csv
+exports/public/participations_latest.json
+```
+
+GG23 draft / analysis tables:
+
+```text
+data/participations/gitcoin_gg23_participations_draft.csv
+data/donations/gitcoin_gg23_donations_draft.csv
+data/donors/gitcoin_gg23_donors_draft.csv
+data/matching/spark_gg23_match_candidates.csv
+data/matching/gg23_project_id_allocation_preview.csv
+```
+
+## Donor Data
+
+GG23 donor data exists as a draft analysis table:
+
+```text
+data/donors/gitcoin_gg23_donors_draft.csv
+data/donors/gitcoin_gg23_donors_draft.json
+```
+
+This is not yet a cross-round canonical `donors_latest` table.
+
+Current donor scope:
+
+```text
+Gitcoin GG23 only
+80 unique wallet addresses
+274 donation events summarized across donor rows
+```
+
+Future work should decide when to promote donor data into:
+
+```text
+data/donors/donors_latest.csv
+data/donors/donors_latest.json
+```
+
+after additional Gitcoin rounds are backfilled.
+
+## Preservation Rules
+
+Raw application text is preserved.
+
+Donation event status is preserved, including:
+
+```text
+status = blank
+success = FALSE
+rawScore
+threshold
+coefficient
+score_type
+last_score_timestamp
+```
+
+This prevents future analysis from treating all donation events as successful.
+
+Public archive excludes:
+
+```text
+Email Address
+Telegram username
+reviewer real names
+private notes
+```
+
+## Latest Snapshot
+
+Latest local checkpoint:
+
+```text
+snapshots/2026-07-10-gg23-canonical-merge/
+```
+
