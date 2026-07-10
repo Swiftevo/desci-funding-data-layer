@@ -34,3 +34,30 @@ Goal:
 Review the most important records first instead of manually reviewing every provisional classification upfront.
 ```
 
+## Project ID Allocation Rule
+
+Draft imports must not reserve permanent `project_entity_id` values.
+
+For Gitcoin GG23:
+
+```text
+project_entity_id remains empty during draft import
+identity_status = pending_match
+cross_round_match_status = pending_match
+```
+
+Only after Spark/GG23 matching review:
+
+```text
+confirmed match -> reuse existing Spark DSPJ ID
+confirmed new_project -> assign next available DSPJ ID
+provisional -> do not assign permanent DSPJ ID yet
+rejected -> do not merge with rejected candidate
+```
+
+Reason:
+
+```text
+This prevents draft GG23 records from occupying DSPJ IDs before we know whether they already exist in Spark.
+Future Spark new projects should receive IDs after all previously confirmed canonical new projects.
+```
