@@ -61,3 +61,32 @@ Reason:
 This prevents draft GG23 records from occupying DSPJ IDs before we know whether they already exist in Spark.
 Future Spark new projects should receive IDs after all previously confirmed canonical new projects.
 ```
+
+## Current Next Tasks After GG23 Merge
+
+The GG23 canonical merge has produced:
+
+```text
+projects_latest: 61
+participations_latest: 70
+GG23 donation events: 274
+GG23 donor wallets: 80
+```
+
+Next tasks:
+
+```text
+1. Review and merge PR #4 if not already merged.
+2. Decide whether GG23 donor draft should remain round-specific or be promoted later to donors_latest.
+3. Generate classification_review_queue.csv after GG23 canonical merge is accepted.
+4. Review unclassified GG23 new projects and provisional Spark classifications.
+5. Decide whether to add a project_relationships table for relationships such as LunCo -> LORS.
+6. Plan next historical Gitcoin backfill round, likely GG21.
+```
+
+Donor note:
+
+```text
+data/donors/gitcoin_gg23_donors_draft.csv exists for GG23.
+data/donors/donors_latest.csv does not exist yet.
+```
